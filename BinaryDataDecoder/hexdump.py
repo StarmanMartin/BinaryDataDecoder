@@ -1,12 +1,13 @@
+import json
 import os
 
-from BinaryDataDecoder.utils import open_as_binary
+from BinaryDataDecoder.utils import open_as_binary_lines
 
 
 class Hexdump:
     @staticmethod
     def _open_as_binary(filename, offset, n_bytes):
-        return open_as_binary(filename, offset, n_bytes)
+        return open_as_binary_lines(filename, offset, n_bytes)
 
     # encode bytes to hex
     @staticmethod
@@ -34,18 +35,12 @@ class Hexdump:
     @classmethod
     def run(cls, filename: str, offset: int=0, n_bytes: int=16, output_filename: str = 'output.txt'):
         lines = cls._open_as_binary(filename, offset, n_bytes)
-        cls.run_from_lines(lines, output_filename)
+        cls.run_from_lines(lines, output_filename, offset)
 
     @classmethod
-    def run_from_lines(cls, lines: list[bytes], output_filename: str = 'output.txt'):
+    def run_from_lines(cls, lines: list[bytes], output_filename: str = 'output.txt', offset: int = 0):
         if os.path.exists(output_filename):
             os.remove(output_filename)
         with open(output_filename, 'w+') as f:
             for index, line in enumerate(lines):
-                f.write(f"{(index * 16):08x} {cls._encode_hex(line)} : {cls._decode_bytes(line)}\n")
-
-
-if __name__ == "__main__":
-    # Convert an integer to bytes in big-endian and little-endian
-    filename = 'test_files/MSPeak.bin'
-    Hexdump().run(filename, 0,8, 'res/test_output.txt')
+                f.write(f"{(index * len(line) + offset):08x} {cls._encode_hex(line)} : {cls._decode_bytes(line)}\n")

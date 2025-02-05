@@ -1,0 +1,2056 @@
+{
+    "results": [
+        {
+            "offset": 1,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 2,
+                "formatter_char": "q",
+                "length_in_byte": 8,
+                "endian_bitmask": 18446744073708503040
+            },
+            "endian": "little",
+            "quality_index": 139.98703627371395,
+            "streak": [
+                1,
+                65,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 68,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.1157963256165,
+            "streak": [
+                68,
+                19668,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 19996,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.96381738528547,
+            "streak": [
+                19996,
+                20204,
+                4,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 29468,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.05815514678633,
+            "streak": [
+                29468,
+                49260,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 49920,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.95666477112195,
+            "streak": [
+                49920,
+                50168,
+                4,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 59156,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.92125734691732,
+            "streak": [
+                59156,
+                79404,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 80000,
+            "bytes_step": 28,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 121.68286624700629,
+            "streak": [
+                80000,
+                80180,
+                8,
+                28
+            ],
+            "values": []
+        },
+        {
+            "offset": 89528,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.92606077853398,
+            "streak": [
+                89528,
+                109760,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 110004,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.48438195404258,
+            "streak": [
+                110004,
+                110060,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 119876,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.13501005192235,
+            "streak": [
+                119876,
+                139412,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 139832,
+            "bytes_step": 48,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.64928450240477,
+            "streak": [
+                139832,
+                140560,
+                8,
+                48
+            ],
+            "values": []
+        },
+        {
+            "offset": 149180,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.03894142046504,
+            "streak": [
+                149180,
+                169036,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 176460,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.27779851690781,
+            "streak": [
+                176460,
+                176636,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 178964,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.8444024417986,
+            "streak": [
+                178964,
+                199468,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 206272,
+            "bytes_step": 20,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.28393326540021,
+            "streak": [
+                206272,
+                206776,
+                8,
+                20
+            ],
+            "values": []
+        },
+        {
+            "offset": 209720,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.00051396792458,
+            "streak": [
+                209720,
+                229704,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 236548,
+            "bytes_step": 12,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.33464709213813,
+            "streak": [
+                236548,
+                236728,
+                8,
+                12
+            ],
+            "values": []
+        },
+        {
+            "offset": 239696,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.51776909488805,
+            "streak": [
+                239696,
+                261288,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 266404,
+            "bytes_step": 16,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.60343956057785,
+            "streak": [
+                266404,
+                266668,
+                8,
+                16
+            ],
+            "values": []
+        },
+        {
+            "offset": 272084,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 112.08154305472002,
+            "streak": [
+                272084,
+                298460,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 306551,
+            "bytes_step": 20,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.53084758088322,
+            "streak": [
+                306551,
+                306691,
+                8,
+                20
+            ],
+            "values": []
+        },
+        {
+            "offset": 311648,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 118.36923500801728,
+            "streak": [
+                311648,
+                317080,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 331568,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 118.46530366698418,
+            "streak": [
+                331568,
+                336680,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 339236,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 117.11794106151812,
+            "streak": [
+                339236,
+                348836,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 353084,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.37810013474328,
+            "streak": [
+                353084,
+                353172,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 353636,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 112.18481683351433,
+            "streak": [
+                353636,
+                379668,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 383004,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.53234247555352,
+            "streak": [
+                383004,
+                384572,
+                4,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 392684,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 112.86930583254943,
+            "streak": [
+                392684,
+                416436,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 423016,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.36883533249973,
+            "streak": [
+                423016,
+                423136,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 428312,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.25117864258213,
+            "streak": [
+                428312,
+                450792,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 453100,
+            "bytes_step": 68,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 121.93332693589703,
+            "streak": [
+                453100,
+                453556,
+                8,
+                68
+            ],
+            "values": []
+        },
+        {
+            "offset": 462032,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.41929874756742,
+            "streak": [
+                462032,
+                483952,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 494912,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.64746174733752,
+            "streak": [
+                494912,
+                516072,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 519644,
+            "bytes_step": 32,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.7902028007832,
+            "streak": [
+                519644,
+                520084,
+                8,
+                32
+            ],
+            "values": []
+        },
+        {
+            "offset": 526652,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.58982056844795,
+            "streak": [
+                526652,
+                548004,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 549616,
+            "bytes_step": 24,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.48142904747678,
+            "streak": [
+                549616,
+                549872,
+                8,
+                24
+            ],
+            "values": []
+        },
+        {
+            "offset": 558680,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.73632523144546,
+            "streak": [
+                558680,
+                579544,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 579648,
+            "bytes_step": 56,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 121.15723148467377,
+            "streak": [
+                579648,
+                579968,
+                8,
+                56
+            ],
+            "values": []
+        },
+        {
+            "offset": 589268,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.92327649899512,
+            "streak": [
+                589268,
+                589812,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 589976,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.52497424222719,
+            "streak": [
+                589976,
+                611544,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 619608,
+            "bytes_step": 12,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.15528974346509,
+            "streak": [
+                619608,
+                619968,
+                8,
+                12
+            ],
+            "values": []
+        },
+        {
+            "offset": 622328,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.99090710469724,
+            "streak": [
+                622328,
+                642344,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 649632,
+            "bytes_step": 4,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.29815733664111,
+            "streak": [
+                649632,
+                649728,
+                8,
+                4
+            ],
+            "values": []
+        },
+        {
+            "offset": 652360,
+            "bytes_step": 48,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.13298063085628,
+            "streak": [
+                652360,
+                672576,
+                8,
+                48
+            ],
+            "values": []
+        },
+        {
+            "offset": 676116,
+            "bytes_step": 32,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.12090843733804,
+            "streak": [
+                676116,
+                676396,
+                8,
+                32
+            ],
+            "values": []
+        },
+        {
+            "offset": 682664,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.82518871552583,
+            "streak": [
+                682664,
+                703232,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 704992,
+            "bytes_step": 12,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.36097726349956,
+            "streak": [
+                704992,
+                713520,
+                4,
+                12
+            ],
+            "values": []
+        },
+        {
+            "offset": 713516,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.8804281785797,
+            "streak": [
+                713516,
+                733900,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 736196,
+            "bytes_step": 52,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.40231791832292,
+            "streak": [
+                736196,
+                736676,
+                8,
+                52
+            ],
+            "values": []
+        },
+        {
+            "offset": 744092,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.95488136790448,
+            "streak": [
+                744092,
+                764228,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 766195,
+            "bytes_step": 56,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.21853361498803,
+            "streak": [
+                766195,
+                766515,
+                8,
+                56
+            ],
+            "values": []
+        },
+        {
+            "offset": 774296,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.78435954719744,
+            "streak": [
+                774296,
+                795000,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 796144,
+            "bytes_step": 8,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 121.25572768188442,
+            "streak": [
+                796144,
+                796272,
+                8,
+                8
+            ],
+            "values": []
+        },
+        {
+            "offset": 805352,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.78916297869554,
+            "streak": [
+                805352,
+                826040,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 832744,
+            "bytes_step": 4,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.37005324222696,
+            "streak": [
+                832744,
+                832852,
+                8,
+                4
+            ],
+            "values": []
+        },
+        {
+            "offset": 836384,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.79396641024162,
+            "streak": [
+                836384,
+                857056,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 862744,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.46671864546457,
+            "streak": [
+                862744,
+                862816,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 867392,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.67147890513297,
+            "streak": [
+                867392,
+                888472,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 892743,
+            "bytes_step": 64,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.11628849973299,
+            "streak": [
+                892743,
+                893247,
+                8,
+                64
+            ],
+            "values": []
+        },
+        {
+            "offset": 899012,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.58501713691831,
+            "streak": [
+                899012,
+                920380,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 922740,
+            "bytes_step": 16,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.3313849467583,
+            "streak": [
+                922740,
+                922860,
+                8,
+                16
+            ],
+            "values": []
+        },
+        {
+            "offset": 931064,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.84440244190381,
+            "streak": [
+                931064,
+                951568,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 952708,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.98299105202642,
+            "streak": [
+                952708,
+                952920,
+                4,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 961820,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.01795523202199,
+            "streak": [
+                961820,
+                983060,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 993656,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.91165048390235,
+            "streak": [
+                993656,
+                1013936,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1019108,
+            "bytes_step": 12,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.41218246978099,
+            "streak": [
+                1019108,
+                1019508,
+                8,
+                12
+            ],
+            "values": []
+        },
+        {
+            "offset": 1024076,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.14764788555843,
+            "streak": [
+                1024076,
+                1045492,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1049292,
+            "bytes_step": 8,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.64432181417072,
+            "streak": [
+                1049292,
+                1049372,
+                8,
+                8
+            ],
+            "values": []
+        },
+        {
+            "offset": 1056152,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.64506003152705,
+            "streak": [
+                1056152,
+                1077320,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1078664,
+            "bytes_step": 8,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 179.71463472852344,
+            "streak": [
+                1078664,
+                1081556,
+                4,
+                8
+            ],
+            "values": []
+        },
+        {
+            "offset": 1087904,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.95968479962274,
+            "streak": [
+                1087904,
+                1108024,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1109288,
+            "bytes_step": 72,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 123.58719927068361,
+            "streak": [
+                1109288,
+                1109688,
+                8,
+                72
+            ],
+            "values": []
+        },
+        {
+            "offset": 1118084,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.05758354184806,
+            "streak": [
+                1118084,
+                1139100,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1139292,
+            "bytes_step": 36,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.34201690187552,
+            "streak": [
+                1139292,
+                1139512,
+                8,
+                36
+            ],
+            "values": []
+        },
+        {
+            "offset": 1148420,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.7485992783177,
+            "streak": [
+                1148420,
+                1149372,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1149608,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.72431665245874,
+            "streak": [
+                1149608,
+                1170512,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1175836,
+            "bytes_step": 76,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.21630427157707,
+            "streak": [
+                1175836,
+                1176592,
+                8,
+                76
+            ],
+            "values": []
+        },
+        {
+            "offset": 1180964,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.9957105363935,
+            "streak": [
+                1180964,
+                1200964,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1205520,
+            "bytes_step": 32,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.39245392066732,
+            "streak": [
+                1205520,
+                1206200,
+                8,
+                32
+            ],
+            "values": []
+        },
+        {
+            "offset": 1210964,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.24611823562361,
+            "streak": [
+                1210964,
+                1231836,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1235532,
+            "bytes_step": 68,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.42697693422122,
+            "streak": [
+                1235532,
+                1236292,
+                8,
+                68
+            ],
+            "values": []
+        },
+        {
+            "offset": 1242224,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.89724018907974,
+            "streak": [
+                1242224,
+                1262552,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1265836,
+            "bytes_step": 36,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.16633026860268,
+            "streak": [
+                1265836,
+                1266144,
+                8,
+                36
+            ],
+            "values": []
+        },
+        {
+            "offset": 1272716,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.36797648333676,
+            "streak": [
+                1272716,
+                1291476,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1295755,
+            "bytes_step": 76,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.16723264422212,
+            "streak": [
+                1295755,
+                1296343,
+                8,
+                76
+            ],
+            "values": []
+        },
+        {
+            "offset": 1300856,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.9260607785393,
+            "streak": [
+                1300856,
+                1321088,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1331204,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.9404710732359,
+            "streak": [
+                1331204,
+                1351388,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1352384,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 180.0005229742094,
+            "streak": [
+                1352384,
+                1352412,
+                4,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1361480,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.2221010739601,
+            "streak": [
+                1361480,
+                1381616,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1382384,
+            "bytes_step": 52,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.05793363019197,
+            "streak": [
+                1382384,
+                1382684,
+                8,
+                52
+            ],
+            "values": []
+        },
+        {
+            "offset": 1391684,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.79156469445192,
+            "streak": [
+                1391684,
+                1412364,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1412372,
+            "bytes_step": 8,
+            "data_type": {
+                "priority_index": 4,
+                "formatter_char": "f",
+                "length_in_byte": 4,
+                "endian_bitmask": 2130706432
+            },
+            "endian": "little",
+            "quality_index": 180.12107952637098,
+            "streak": [
+                1412372,
+                1412516,
+                4,
+                8
+            ],
+            "values": []
+        },
+        {
+            "offset": 1421912,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.85855235916021,
+            "streak": [
+                1421912,
+                1422552,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1422704,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.00531739940861,
+            "streak": [
+                1422704,
+                1442672,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1451456,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.670595446572,
+            "streak": [
+                1451456,
+                1452656,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1452656,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.9236590627977,
+            "streak": [
+                1452656,
+                1472896,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1481664,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 119.8014999664114,
+            "streak": [
+                1481664,
+                1482504,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1483016,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.98370195745898,
+            "streak": [
+                1483016,
+                1503056,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1508932,
+            "bytes_step": 4,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.5214564227098,
+            "streak": [
+                1508932,
+                1509040,
+                8,
+                4
+            ],
+            "values": []
+        },
+        {
+            "offset": 1513076,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 116.0023440778919,
+            "streak": [
+                1513076,
+                1533060,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1538932,
+            "bytes_step": 12,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.1373848843925,
+            "streak": [
+                1538932,
+                1539092,
+                8,
+                12
+            ],
+            "values": []
+        },
+        {
+            "offset": 1543040,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 114.0077191152194,
+            "streak": [
+                1543040,
+                1563000,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1568935,
+            "bytes_step": 32,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.25252033667046,
+            "streak": [
+                1568935,
+                1569135,
+                8,
+                32
+            ],
+            "values": []
+        },
+        {
+            "offset": 1572980,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.90924876803409,
+            "streak": [
+                1572980,
+                1593268,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1598936,
+            "bytes_step": 32,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 120.04724813027516,
+            "streak": [
+                1598936,
+                1599136,
+                8,
+                32
+            ],
+            "values": []
+        },
+        {
+            "offset": 1603412,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.73152179984366,
+            "streak": [
+                1603412,
+                1624292,
+                8,
+                0
+            ],
+            "values": []
+        },
+        {
+            "offset": 1628919,
+            "bytes_step": 8,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "big",
+            "quality_index": 120.12156257332856,
+            "streak": [
+                1628919,
+                1629031,
+                8,
+                8
+            ],
+            "values": []
+        },
+        {
+            "offset": 1634732,
+            "bytes_step": 0,
+            "data_type": {
+                "priority_index": 1,
+                "formatter_char": "d",
+                "length_in_byte": 8,
+                "endian_bitmask": 9214364837600034816
+            },
+            "endian": "little",
+            "quality_index": 113.84680415751002,
+            "streak": [
+                1634732,
+                1655228,
+                8,
+                0
+            ],
+            "values": []
+        }
+    ]
+}
