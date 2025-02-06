@@ -17,14 +17,19 @@ class DataTypeMetaData:
         self.length_in_byte = length_in_byte
         full_bit_mask = 2 ** (8 * length_in_byte) - 1
         bitmask = full_bit_mask & endian_bitmask
-        self.little_right_shift = 0
+        self._right_shift = 0
         while bitmask != 0 and bitmask % 2 == 0:  # Continue while n is even
             bitmask //= 2
-            self.little_right_shift += 1
+            self._right_shift += 1
         self.bitmask = bitmask
-        self.big_right_shift = length_in_byte * 8 - self.little_right_shift - math.floor(math.log2(bitmask)) - 1
         self.is_signed = ord(formatter_char) > 90
         self.is_signed_integer = formatter_char not in ['d', 'f'] and self.is_signed
+        
+    def decrease_accuracy(self):
+        if self.bitmask > 0xF:
+            self._right_shift += 1
+            self.bitmask //= 2
+            self.endian_bitmask &= (self.endian_bitmask // 2)
 
     def __str__(self):
         return f'{self.length_in_byte} {self.formatter_char}'
@@ -36,11 +41,11 @@ class DataTypeMetaData:
 
     def _parse_byte_stream_test_seq_big(self, chunk_to_test: bytes):
         bin_to_test = int.from_bytes(chunk_to_test, 'big')
-        return (bin_to_test & self.endian_bitmask) >> self.little_right_shift
+        return (bin_to_test & self.endian_bitmask) >> self._right_shift
 
     def _parse_byte_stream_test_seq_little(self, chunk_to_test: bytes):
         bin_to_test = int.from_bytes(chunk_to_test, 'little')
-        return (bin_to_test & self.endian_bitmask) >> self.little_right_shift
+        return (bin_to_test & self.endian_bitmask) >> self._right_shift
 
     def __dict__(self):
         return {

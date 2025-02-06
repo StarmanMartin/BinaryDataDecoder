@@ -21,7 +21,7 @@ class BinaryDataFinder():
     MAX_VALIDATION_ERROR = 1000
 
     def __init__(self, file_path: str, min_length_data: int = 1000,
-                 number_of_threads: int = 5, value_in_row: int=2):
+                 number_of_threads: int = 5, value_in_row: int=2, decrease_accuracy:bool = False, offset:int=0):
         self._is_running = True
         self._pre_refined_results = []
         self._fp = file_path
@@ -38,6 +38,8 @@ class BinaryDataFinder():
         self._offset = 0
         self._results: list[FoundDataInfo] = []
         self._value_in_row = value_in_row * 8 + 1
+        self.decrease_accuracy = decrease_accuracy
+        self._read_offset = offset
 
     def __del__(self):
         if self._file_handler is not None:
@@ -47,13 +49,23 @@ class BinaryDataFinder():
     def results(self):
         return self._results
 
+    @property
+    def bin_file_contents(self) -> list[bytes]:
+        if self._chunks is None:
+            self.read()
+        return self._chunks
+
+    @property
+    def fp(self) -> str:
+        return self._fp
+
     def read(self) -> Self:
         self._number_of_threads += 1
 
         while self._chunk_size < self._test_chunk_size:
             self._number_of_threads = max(1, self._number_of_threads - 1)
 
-            self._chunks = open_as_binary_lines(self._fp, 0, n_parts=self._number_of_threads)
+            self._chunks = open_as_binary_lines(self._fp, self._read_offset, n_parts=self._number_of_threads)
             self._total_size = sum(len(chunk) for chunk in self._chunks)
             self._chunk_size = len(self._chunks[0])
 
@@ -87,6 +99,9 @@ class BinaryDataFinder():
             data_types = [data_types]
 
         data_types = [d.data_type_meta_data() for d in data_types]
+        if self.decrease_accuracy:
+            for d in data_types:
+                d.decrease_accuracy()
         total_steps = self._chunk_size // self._test_chunk_size
         step = 0
         time_in_s = 0
